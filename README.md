@@ -1,4 +1,4 @@
-#AI powered Network PCAP Analyzer Digital Twin#
+#AI# powered Network PCAP Analyzer Digital Twin
 
 Turn raw PCAP files into a real-time, AI-powered digital twin of your network. This tool automatically scans and profiles every IP, host, and device—tracking ports, protocols, operating systems, services, traffic patterns, and behavioral anomalies. It reconstructs multi-layer communication flows, detects unusual or suspicious activity, and presents everything in a futuristic, interactive UI dashboard that visualizes network topology, protocol breakdowns, event timelines, and AI-generated risk alerts.
 
